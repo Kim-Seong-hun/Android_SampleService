@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Banobagi</string>
+    <string name="site_url">http://wisecaresample.com:10084/</string>
+    <!-- Site Information
+    바로선병원 서비스 샘플 페이지 : http://wisecaresample.com:10080/
+    바로선병원 동영상 페이지 : http://wisecaresample.com:10081/
+    안심치과 서비스 샘플 페이지 : http://wisecaresample.com:10082/
+    바노바기 성형외과 서비스 샘플 페이지 : http://wisecaresample.com:10084/
+    -->
+</resources>
